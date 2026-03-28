@@ -1,6 +1,6 @@
 cask "aerotabs" do
-  version "1.0.0"
-  sha256 "7ae8835d0984aa444e7042d7ba6a0ac416e0a54d41e56ecbf3ae26df94045c32"
+  version "1.0.1"
+  sha256 "64e8cecca7f88d94d3fd5deaec5fce817e7cbbdf5d788eab165fe76b5028d044"
 
   url "https://github.com/alexlazarian/aerotabs/releases/download/v#{version}/AeroTabs.zip"
   name "AeroTabs"
